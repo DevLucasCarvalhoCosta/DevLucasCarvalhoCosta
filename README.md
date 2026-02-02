@@ -80,7 +80,7 @@ const developer = {
 
 <!-- GitHub Stats - usando gh-readme-profile (alternativa confiável) -->
 <a href="https://github.com/FajarKim/github-readme-profile">
-  <img src="https://gh-readme-profile.vercel.app/api?username=DevLucasCarvalhoCosta&theme=dark&hide_border=true&border_radius=10"/>
+  <img width="495" src="https://gh-readme-profile.vercel.app/api?username=DevLucasCarvalhoCosta&theme=dark&hide_border=true&border_radius=10"/>
 </a>
 
 </div>
@@ -89,7 +89,7 @@ const developer = {
 
 <!-- GitHub Streak Stats -->
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=DevLucasCarvalhoCosta&theme=github-dark-blue&hide_border=true&border_radius=10&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6"/>
+  <img width="495" src="https://streak-stats.demolab.com/?user=DevLucasCarvalhoCosta&theme=github-dark-blue&hide_border=true&border_radius=10&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6"/>
 </a>
 
 </div>
