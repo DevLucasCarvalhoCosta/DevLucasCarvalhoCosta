@@ -78,20 +78,46 @@ const developer = {
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DevLucasCarvalhoCosta&show_icons=true&theme=transparent&hide_border=true&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9&ring_color=8b5cf6"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucasCarvalhoCosta&layout=compact&theme=transparent&hide_border=true&title_color=8b5cf6&text_color=c9d1d9&langs_count=8&card_width=320"/>
-</a>
+<!-- GitHub Stats - usando picture para fallback entre temas -->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=DevLucasCarvalhoCosta&show_icons=true&theme=github_dark&hide_border=true&title_color=8b5cf6&icon_color=8b5cf6&ring_color=8b5cf6"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=DevLucasCarvalhoCosta&show_icons=true&theme=default&hide_border=true&title_color=8b5cf6&icon_color=8b5cf6&ring_color=8b5cf6"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DevLucasCarvalhoCosta&show_icons=true&theme=github_dark&hide_border=true&title_color=8b5cf6&icon_color=8b5cf6&ring_color=8b5cf6"/>
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucasCarvalhoCosta&layout=compact&theme=github_dark&hide_border=true&title_color=8b5cf6&langs_count=8&card_width=320"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucasCarvalhoCosta&layout=compact&theme=default&hide_border=true&title_color=8b5cf6&langs_count=8&card_width=320"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucasCarvalhoCosta&layout=compact&theme=github_dark&hide_border=true&title_color=8b5cf6&langs_count=8&card_width=320"/>
+</picture>
 
 </div>
 
 <div align="center">
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=DevLucasCarvalhoCosta&theme=transparent&hide_border=true&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681"/>
-</a>
+<!-- GitHub Streak Stats -->
+<picture>
+  <source
+    srcset="https://streak-stats.demolab.com?user=DevLucasCarvalhoCosta&theme=github-dark-blue&hide_border=true&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://streak-stats.demolab.com?user=DevLucasCarvalhoCosta&theme=default&hide_border=true&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://streak-stats.demolab.com?user=DevLucasCarvalhoCosta&theme=github-dark-blue&hide_border=true&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6"/>
+</picture>
 
 </div>
 
