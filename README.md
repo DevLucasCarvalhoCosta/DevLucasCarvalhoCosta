@@ -1,99 +1,113 @@
-<h1 align="center">Hello World</h1>
+<div align="center">
+  
+# 👋 Hi, I'm Lucas Carvalho
 
-###
+### 🚀 Full-Stack Developer | Systems Analyst | IT Specialist
 
-<p align="left">Hi 👋, I'm Lucas! A student passionate about programming from Brazil.<br><br>I'am currently studying Information Systems at UEG - State University of Goiás</p>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-lucascarvalho.net-8B5CF6?style=for-the-badge)](https://www.lucascarvalho.net)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devlucascarvalhocosta/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.lucascarvalho@gmail.com)
 
-###
-
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning new frameworks like Next.js and exploring advanced JavaScript techniques<br>🎯 Goals: Expand my expertise in full-stack development and contribute to open-source projects<br>🎲 Fun fact: I'm passionate about gaming, books, and global politics, which fuel my curiosity and creativity in coding</p>
-
-###
-
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 More about me</summary>
-
-  - 💬 I'm 28 years old and currently live in Brazil. I am fluent in English and have solid experience with Java, JavaScript, C, C++, Node.js, React JS and SQL Server. Furthermore, I am a computer maintenance and support technician, working as an IT Analyst for over 8 years. This trajectory allowed me to develop crucial skills, such as solving complex problems, systems management, and implementing efficient technological solutions.
-    
-  - ⚡ I'm passionate about reading, whether it's a good book, manga or comics. I also love watching movies and playing games. I believe these personal interests broaden our worldview and enhance our ability to solve problems creatively and effectively.
-</details>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/lucas-carvalho-3225b3114/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="dev.lucascarvalho@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/lucaskrv/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
 </div>
 
-###
+---
 
-<h3 align="left">🔥 Skills</h3>
+## 🎯 About Me
 
-###
+```typescript
+const lucas = {
+  location: "Goiânia, Brazil 🇧🇷",
+  education: "Information Systems @ UEG",
+  role: "Full-Stack Developer @ Manto Sistemas",
+  experience: "+4 years in development | +10 years in IT",
+  focus: ["Scalable Web Apps", "ERP Systems", "IT Infrastructure"],
+  currentlyLearning: ["NestJS", "Docker", "Cloud Architecture"]
+};
+```
 
-<h5 align="left">Programming Languages & Frameworks:</h5>
+💼 **Full-Stack Developer** focused on building **scalable** and **secure web applications** using **React**, **TypeScript**, **Node.js**, and **relational databases**. Solid experience in **ERP systems** and **IT infrastructure management**. Results-oriented profile with the ability to translate business needs into efficient technical solutions.
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="embeddedc logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-</div>
-
-###
-
-<!-- Portfolio -->
-## Portfolio:
-- [BackEnd Recrutamento](https://github.com/DevLucasCarvalhoCosta/recrutamento)
-- [Frontend Recrutamento](https://github.com/DevLucasCarvalhoCosta/frontend-recrutamento)
-- [WeekWise-Services](https://github.com/DevLucasCarvalhoCosta/WeekWise-Services)
-- [Controle de Sessao Plenaria - BackEnd](https://github.com/DevLucasCarvalhoCosta/projeto)
-- [Controle de Sessao Plenaria - FrontEnd](https://github.com/DevLucasCarvalhoCosta/projeto-frontend)
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img height="230" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47bll8nbdxibjl7df4fqtwg6hlthm5ija6nozzh1s7&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-</div>
-
-###
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevLucasCarvalhoCosta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevLucasCarvalhoCosta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=11&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+### 🗄️ Database & DevOps
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
 </div>
 
-###
+---
 
+## 🚀 Featured Projects
 
+<div align="center">
 
-###
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🏢 **[PatrimônioUEG](https://patrimonioueg.duckdns.org)** | Asset Management System with dashboard, reports and JWT auth | React, Node.js, PostgreSQL, Docker |
+| 🌊 **[Bacias Hidrográficas](https://anahidro.duckdns.org)** | Water Resources Monitoring with ANA API integration | React, Node.js, Leaflet, Prisma |
+| 🍷 **[WineBrain-SAD](https://winebrain.duckdns.org)** | Decision Support System with ML (~95% accuracy) | Python, FastAPI, Scikit-learn, React |
+| 📊 **[Estresse](https://estresse.duckdns.org)** | Workplace Well-being Analysis with validated scales | Python, Dash, Plotly, PostgreSQL |
+| 🎨 **[Portfolio V2](https://www.lucascarvalho.net)** | Personal Portfolio with Next.js 16 & Framer Motion | Next.js, TypeScript, Tailwind v4 |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevLucasCarvalhoCosta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucasCarvalhoCosta&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevLucasCarvalhoCosta&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect!
+
+**Open to new opportunities and collaborations**
+
+[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.lucascarvalho.net)
+
+<img src="https://komarev.com/ghpvc/?username=DevLucasCarvalhoCosta&color=8B5CF6&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+
+</div>
+
+---
+
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Coding gif"/>
+</div>
