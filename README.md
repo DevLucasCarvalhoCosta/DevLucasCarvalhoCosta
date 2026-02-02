@@ -2,19 +2,21 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Lucas%20Carvalho&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<p>
-  <a href="https://www.lucascarvalho.net">
-    <img src="https://img.shields.io/badge/Portfolio-lucascarvalho.net-8B5CF6?style=flat-square&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/devlucascarvalhocosta/">
-    <img src="https://img.shields.io/badge/LinkedIn-Lucas_Carvalho-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:dev.lucascarvalho@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dev.lucascarvalho-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<a href="https://www.lucascarvalho.net">
+  <img src="https://img.shields.io/badge/Portfolio-lucascarvalho.net-8B5CF6?style=flat-square&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/devlucascarvalhocosta/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:dev.lucascarvalho@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Full-Stack+Developer;React+%7C+TypeScript+%7C+Node.js;%2B4+years+in+Development;Building+scalable+web+applications" alt="Typing SVG" />
+<br/><br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%7C+TypeScript+%7C+Node.js;%2B4+years+building+web+apps" alt="Typing SVG" />
+</a>
 
 </div>
 
@@ -76,10 +78,20 @@ const developer = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DevLucasCarvalhoCosta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9&ring_color=8b5cf6"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=DevLucasCarvalhoCosta&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=c9d1d9&dates=6e7681"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DevLucasCarvalhoCosta&show_icons=true&theme=transparent&hide_border=true&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9&ring_color=8b5cf6"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucasCarvalhoCosta&layout=compact&theme=transparent&hide_border=true&title_color=8b5cf6&text_color=c9d1d9&langs_count=8&card_width=320"/>
+</a>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucasCarvalhoCosta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&langs_count=8"/>
+</div>
+
+<div align="center">
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=DevLucasCarvalhoCosta&theme=transparent&hide_border=true&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681"/>
+</a>
 
 </div>
 
@@ -87,7 +99,9 @@ const developer = {
 
 <div align="center">
   
-<img src="https://github-profile-trophy.vercel.app/?username=DevLucasCarvalhoCosta&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5"/>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=DevLucasCarvalhoCosta&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5"/>
+</a>
 
 </div>
 
@@ -96,7 +110,7 @@ const developer = {
 <div align="center">
 
 <a href="https://www.lucascarvalho.net">
-  <img src="https://img.shields.io/badge/Visit_My_Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visit_My_Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <br/><br/>
